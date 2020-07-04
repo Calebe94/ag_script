@@ -1,5 +1,5 @@
 from random import random
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 # Classe Produtos
 class Produto():
